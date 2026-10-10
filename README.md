@@ -26,11 +26,11 @@
 
 <table>
 <tr><td valign="top">📍 <b>Where</b></td><td>Bangladesh</td></tr>
-<tr><td valign="top">🎓 <b>Status</b></td><td>College student, mostly online</td></tr>
+<tr><td valign="top">🎓 <b>Status</b></td><td>College student</td></tr>
 <tr><td valign="top">🧠 <b>Focus</b></td><td>AI automation · Mobile apps · Lead generation · Research systems</td></tr>
 <tr><td valign="top">🛠️ <b>Builds in</b></td><td>Python, Kotlin, TypeScript, JavaScript, SQL</td></tr>
-<tr><td valign="top">🌱 <b>Learning</b></td><td>English fluency · Machine learning</td></tr>
-<tr><td valign="top">⚡ <b>Currently</b></td><td>Working toward $5K/month online</td></tr>
+<tr><td valign="top">🌱 <b>Learning</b></td><td>AI Automation · Machine learning</td></tr>
+<tr><td valign="top">⚡ <b>Currently</b></td><td>Shipping projects instead of planning them</td></tr>
 </table>
 
 I build things that remove a manual task from someone's day — then publish the
@@ -101,15 +101,15 @@ language. Most of what I know came from building something that didn't work yet.
 ## 📌 Currently
 
 - Working through an AI Automation Agency program — Module 1 shipped, more to go
-- Building a niche research pipeline before any outreach happens
+- Building a niche research pipeline
 - Shipping the Bengali education app I co-founded
-- Learning English properly, 100 new words a day
 
 ---
 
 ## 📫 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-meadil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/meadil)
+[![Email](https://img.shields.io/badge/Email-me.iftekhar.adil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:me.iftekhar.adil@gmail.com)
 
 ---
 
